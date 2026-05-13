@@ -1,14 +1,14 @@
-# Exploracion_y_visualizacion_de_datos
-Título: Exploración de Airbnb en Madrid: precio vs. cantidad de reseñas por barrios principales
+Airbnb Madrid Data Exploration Dashboard
 
-Descripción:
-Este dashboard muestra los barrios principales de Madrid con la mejor relación entre precio promedio y cantidad de reseñas de los anuncios de Airbnb.
+This project analyzes Airbnb listings in Madrid using Power BI.
 
-Las burbujas representan cada barrio, y su tamaño refleja la cantidad de anuncios.
+The goal is to explore the relationship between price, number of reviews, and neighborhood distribution.
 
-El slicer interactivo permite filtrar los 25 barrios más representativos, facilitando la exploración.
+Key features:
+- Interactive dashboard with filters (Top 25 neighborhoods)
+- KPIs: average price, number of listings, average reviews, average rating
+- Bubble chart visualization of neighborhoods
+- Data-driven insights for identifying high-value areas
 
-Los KPIs en la parte superior muestran información general: precio promedio, cantidad de anuncios, promedio de reseñas y rating promedio.
-
-Conclusión:
-El dashboard permite identificar fácilmente los barrios que ofrecen buena relación entre precio y cantidad de reseñas, ayudando a detectar las zonas más relevantes para huéspedes y anfitriones.
+Conclusion:
+The dashboard helps identify neighborhoods with the best balance between price and demand, supporting decision-making for both guests and hosts.
